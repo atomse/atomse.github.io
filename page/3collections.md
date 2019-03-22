@@ -290,6 +290,13 @@ Syntax Theme: Atom Dark or One Dark
 
     首页的卡片翻动效果非常赞。
 
+## 技术网站
+- [二丫讲梵](http://www.eryajf.net/)
+
+## 装机必备
+- [Windows](http://www.eryajf.net/829.html)
+
+
 ## Comments
 
 {% include comments.html %}
